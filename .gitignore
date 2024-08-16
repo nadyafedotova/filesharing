@@ -1,11 +1,5 @@
-/.idea
-/.vagrant/node_modules
-/node_modules
-/public/storage
-/public/hot
-/storage/*.key
-/vendor
-.env
-npm-debug.log
-yarn-error.log
-
+.idea/
+app/.env
+data/
+log/
+.DS_Store
